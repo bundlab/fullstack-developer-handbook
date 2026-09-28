@@ -55,47 +55,6 @@ An end-to-end repository structure and production-ready `README.md` designed as 
 
 ---
 
-### Recommended Repository Directory Layout
-
-```text
-fullstack-developer-handbook/
-├── README.md
-├── LICENSE
-├── chapters/
-│   ├── 01-software-development-fundamentals.md
-│   ├── 02-html-css-javascript-typescript.md
-│   ├── 03-react-flutter-frontend.md
-│   ├── 04-python-fastapi-nodejs.md
-│   ├── 05-rest-apis-and-authentication.md
-│   ├── 06-postgresql-and-database-design.md
-│   ├── 07-git-and-github.md
-│   ├── 08-docker-and-containerization.md
-│   ├── 09-testing-strategies.md
-│   ├── 10-cicd-pipelines.md
-│   ├── 11-cloud-deployment.md
-│   ├── 12-security-best-practices.md
-│   └── 13-monitoring-and-logging.md
-└── labs/
-    ├── docker-compose.yml
-    ├── .env.example
-    ├── backend/
-    │   ├── Dockerfile
-    │   ├── requirements.txt
-    │   └── app/
-    │       ├── main.py
-    │       └── config.py
-    ├── frontend/
-    │   ├── Dockerfile
-    │   └── src/
-    │       └── App.tsx
-    └── database/
-        └── init.sql
-
-```
-
----
-
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve a chapter or add a lab exercise:
@@ -109,62 +68,6 @@ Contributions are welcome! If you'd like to improve a chapter or add a lab exerc
 
 Distributed under the MIT License. See `LICENSE` for details.
 
-
-An end-to-end repository structure and production-ready `README.md` designed as an actionable, open-source handbook and lab setup.
-
 ---
 
-### Recommended Repository Directory Layout
-
-```text
-fullstack-developer-handbook/
-├── README.md
-├── LICENSE
-├── chapters/
-│   ├── 01-software-development-fundamentals.md
-│   ├── 02-html-css-javascript-typescript.md
-│   ├── 03-react-flutter-frontend.md
-│   ├── 04-python-fastapi-nodejs.md
-│   ├── 05-rest-apis-and-authentication.md
-│   ├── 06-postgresql-and-database-design.md
-│   ├── 07-git-and-github.md
-│   ├── 08-docker-and-containerization.md
-│   ├── 09-testing-strategies.md
-│   ├── 10-cicd-pipelines.md
-│   ├── 11-cloud-deployment.md
-│   ├── 12-security-best-practices.md
-│   └── 13-monitoring-and-logging.md
-└── labs/
-    ├── docker-compose.yml
-    ├── .env.example
-    ├── backend/
-    │   ├── Dockerfile
-    │   ├── requirements.txt
-    │   └── app/
-    │       ├── main.py
-    │       └── config.py
-    ├── frontend/
-    │   ├── Dockerfile
-    │   └── src/
-    │       └── App.tsx
-    └── database/
-        └── init.sql
-
-```
-
----
-
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve a chapter or add a lab exercise:
-
-1. Fork the repo.
-2. Create a feature branch (`git checkout -b feature/chapter-improvement`).
-3. Commit using [Conventional Commits](https://www.conventionalcommits.org/?utm_source=gemini).
-4. Open a Pull Request.
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for details.
 
